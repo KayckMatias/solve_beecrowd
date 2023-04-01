@@ -23,5 +23,5 @@ Hi! My name is Kayck Matias and I want improve my programming logic solving beec
 [[1013]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1013.php) | 
 [[1014]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1014.php) | 
 [[1015]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1015.php) | 
+[[1016]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1016.php) | 
 [more incoming...]
-
