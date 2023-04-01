@@ -13,6 +13,8 @@ Hi! My name is Kayck Matias and I want improve my programming logic solving beec
 
 ✅ - [[1003]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1003.php) | Simple Sum
 
-✅ - [[1004]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1003.php) | Simple Product
+✅ - [[1004]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1004.php) | Simple Product
+
+✅ - [[1005]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1005.php) | Average 1
 
 [more incoming...]
