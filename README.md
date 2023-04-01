@@ -19,4 +19,6 @@ Hi! My name is Kayck Matias and I want improve my programming logic solving beec
 
 ✅ - [[1006]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1006.php) | Average 2
 
+✅ - [[1007]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1007.php) | Difference
+
 [more incoming...]
