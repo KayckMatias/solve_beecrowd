@@ -6,3 +6,5 @@ Hi! My name is Kayck Matias and I want improve my programming logic solving beec
 # Solveds:
 
 ✅ - [[1000]](https://github.com/KayckMatias/solve_beecrowd/blob/main/Beginner/1000.php) | Hello World!
+
+✅ - [[1001]](https://github.com/KayckMatias/solve_beecrowd/blob/main/Beginner/1001.php) | Extremely Basic
