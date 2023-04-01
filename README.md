@@ -27,4 +27,5 @@ Hi! I want improve my programming logic solving beecrowd questions in my favorit
 [[1017]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1017.php) | 
 [[1018]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1018.php) | 
 [[1019]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1019.php) | 
+[[1020]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1020.php) | 
 [more incoming...]
