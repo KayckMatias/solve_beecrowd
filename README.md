@@ -30,4 +30,5 @@ Hi! I want improve my programming logic solving beecrowd questions in my favorit
 [[1020]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1020.php) | 
 [[1021]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1021.php) | 
 [[1035]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1035.php) | 
+[[1036]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1036.php) | 
 [more incoming...]
