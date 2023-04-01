@@ -11,4 +11,6 @@ Hi! My name is Kayck Matias and I want improve my programming logic solving beec
 
 ✅ - [[1002]](https://github.com/KayckMatias/solve_beecrowd/blob/main/Beginner/1002.php) | Area of a Circle
 
+✅ - [[1003]](https://github.com/KayckMatias/solve_beecrowd/blob/main/Beginner/1003.php) | Simple Sum
+
 [more incoming...]
