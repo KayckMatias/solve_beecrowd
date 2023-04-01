@@ -18,5 +18,7 @@ Hi! My name is Kayck Matias and I want improve my programming logic solving beec
 [[1008]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1008.php) | 
 [[1009]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1009.php) | 
 [[1010]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1010.php) | 
+[[1011]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1011.php) | 
+[[1012]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1012.php) | 
 [more incoming...]
 
