@@ -20,5 +20,6 @@ Hi! My name is Kayck Matias and I want improve my programming logic solving beec
 [[1010]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1010.php) | 
 [[1011]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1011.php) | 
 [[1012]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1012.php) | 
+[[1013]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1013.php) | 
 [more incoming...]
 
