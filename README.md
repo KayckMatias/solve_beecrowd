@@ -41,4 +41,5 @@ Hi! I want improve my programming logic solving beecrowd questions in my favorit
 [[1045]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1045.php) | 
 [[1046]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1046.php) | 
 [[1047]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1047.php) | 
+[[1048]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1048.php) | 
 [more incoming...]
