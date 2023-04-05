@@ -48,4 +48,5 @@ Hi! I want improve my programming logic solving beecrowd questions in my favorit
 [[1052]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1052.php) | 
 [[1059]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1059.php) | 
 [[1060]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1060.php) | 
+[[1061]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1061.php) | 
 [more incoming...]
