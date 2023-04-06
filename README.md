@@ -52,4 +52,5 @@ Hi! I want improve my programming logic solving beecrowd questions in my favorit
 [[1064]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1064.php) | 
 [[1065]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1065.php) | 
 [[1066]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1066.php) | 
+[[1067]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1067.php) | 
 [more incoming...]
