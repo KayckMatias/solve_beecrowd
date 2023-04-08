@@ -57,4 +57,5 @@ Hi! I want improve my programming logic solving beecrowd questions in my favorit
 [[1071]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1071.php) | 
 [[1072]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1072.php) | 
 [[1073]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1073.php) | 
+[[1074]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/1074.php) | 
 [more incoming...]
