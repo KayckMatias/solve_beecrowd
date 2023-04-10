@@ -12,14 +12,10 @@
 // Output
 // Print the sequence like the example below.
 
-$j_new = 7;
-$j_old = 5;
-for ($i = 1; $i <= 9; $i++) {
-    if ($i % 2 != 0) {
-        for ($j = $j_new; $j >= $j_old; $j--) {
-            echo "I=$i J=$j\n";
-        }
-        $j_new += 2;
-        $j_old += 2;
+//ATTENTION: This code works and the output is equal the uDebug of beecrowd, but beecrowd dont accept for some reason:c
+
+for ($i = 0; $i <= 2; $i += 0.2) {
+    for ($j = 1; $j <= 3; $j++) {
+        echo "I=$i J=".$j+$i."\n";
     }
 }
