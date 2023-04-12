@@ -28,5 +28,4 @@ while(true) {
     }else{
         echo "nota invalida\n";
     }
-
 }
