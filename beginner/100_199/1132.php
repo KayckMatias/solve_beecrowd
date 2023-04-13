@@ -15,15 +15,15 @@
 $x = intval(fgets(STDIN));
 $y = intval(fgets(STDIN));
 
-$x = min($x,$y);
-$y = max($x,$y);
+$min = min($x, $y);
+$max = max($x, $y);
 
-$count = 0;
+$sum = 0;
 
-for($i = $x; $i <= $y; $i++){
-    if($i % 13 != 0){
-        $count += $i;
-    }
+for ($i = $min; $i <= $max; $i++) {
+  if ($i % 13 != 0) {
+    $sum += $i;
+  }
 }
 
-echo $count . "\n";
+echo $sum . "\n";
