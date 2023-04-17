@@ -17,7 +17,6 @@
 while(true){
     $input = intval(fgets(STDIN));
     if($input == 0){
-        echo "\n";
         break;
     }
 
