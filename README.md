@@ -82,4 +82,5 @@ Hi! I want improve my programming logic solving beecrowd questions in my favorit
 [[1143]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/100_199/1143.php) | 
 [[1144]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/100_199/1144.php) | 
 [[1145]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/100_199/1145.php) | 
+[[1146]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/100_199/1146.php) | 
 [more incoming...]
