@@ -15,7 +15,8 @@
 
 // Output
 // Print, for each test case, how many years would be necessary to the city A became greater than the city B (in inhabitants). Remember that if this time is greater than 100 it will be necessary printing the message: "Mais de 1 seculo". In each one of these cases, maybe would be interesting interrupt the counting, otherwise you'll get "Time Limit Exceeded".
-$x = intval(fgets(STDIN)); // Lê o número de casos de teste
+
+$x = intval(fgets(STDIN));
 
 for ($i = 0; $i < $x; $i++) {
     fscanf(STDIN, "%d %d %f %f", $pa, $pb, $g1, $g2);
