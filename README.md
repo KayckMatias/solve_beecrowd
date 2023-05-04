@@ -93,4 +93,5 @@ Hi! I want improve my programming logic solving beecrowd questions in my favorit
 [[1157]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/100_199/1157.php) | 
 [[1158]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/100_199/1158.php) | 
 [[1159]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/100_199/1159.php) | 
+[[1160]](https://github.com/KayckMatias/solve_beecrowd/blob/main/beginner/100_199/1160.php) | 
 [more incoming...]
